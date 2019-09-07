@@ -49,3 +49,15 @@ li{
 p{
     margin:20px;
 }
+.blog-post{
+    margin:10px;
+    background-color: #fff;
+    border: 1px solid #999999;
+    border-radius: 5px;
+    padding:10px;
+}
+img{
+    float:left;
+    margin-right:10px;
+    margin-bottom:10px;
+}
